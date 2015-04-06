@@ -1,0 +1,5 @@
+namespace postgresinator {
+  constexpr auto VersionMajor = @postgresinator_VERSION_MAJOR@;
+  constexpr auto VersionMinor = @postgresinator_VERSION_MINOR@;
+  constexpr auto VersionPatch = @postgresinator_VERSION_PATCH@;
+}
